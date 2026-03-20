@@ -20,6 +20,16 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Expanded Core Roles
+
+The core roles listed above are complemented by supporting roles that become essential as projects scale:
+
+- **UX Designer**: Designs and validates user experiences; ensures usability and accessibility.
+- **DevOps Engineer**: Builds and maintains CI/CD pipelines, manages infrastructure, enables reliable deployments.
+- **Business Analyst**: Bridges business needs and technical delivery; refines requirements and validates acceptance.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) and [Role Interaction Matrix](role-interaction-matrix.md) for detailed responsibilities and collaboration patterns.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
